@@ -10,3 +10,5 @@ temp = weatherdata["main"]["temp"]
 desc = weatherdata["weather"][0]["description"]
 
 puts "Guam is #{temp} degrees outside with #{desc}"
+
+test
